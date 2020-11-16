@@ -2,11 +2,6 @@ import streamlit as st
 import SessionState
 
 import json
-import requests
-
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 from utils import search_data, prep_df
 
